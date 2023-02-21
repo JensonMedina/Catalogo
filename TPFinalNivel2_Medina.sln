@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principal", "Principal\Principal.csproj", "{8A879FE2-2D76-4119-A79C-939E75492176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{17DC0F92-04F1-4EED-B365-F6590EEA1269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{0B9A03E2-30D2-4836-9560-C24116855D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A879FE2-2D76-4119-A79C-939E75492176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A879FE2-2D76-4119-A79C-939E75492176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A879FE2-2D76-4119-A79C-939E75492176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A879FE2-2D76-4119-A79C-939E75492176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17DC0F92-04F1-4EED-B365-F6590EEA1269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17DC0F92-04F1-4EED-B365-F6590EEA1269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17DC0F92-04F1-4EED-B365-F6590EEA1269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17DC0F92-04F1-4EED-B365-F6590EEA1269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B9A03E2-30D2-4836-9560-C24116855D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B9A03E2-30D2-4836-9560-C24116855D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B9A03E2-30D2-4836-9560-C24116855D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B9A03E2-30D2-4836-9560-C24116855D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3397CAE0-E42F-4D03-8960-17D3D241627F}
+	EndGlobalSection
+EndGlobal
