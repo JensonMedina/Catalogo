@@ -1,5 +1,4 @@
 # Catalogo
-Un catalogo de articulos
 
 Este es el trabajo practico final del curso de c# nivel 2. Es un catalogo de articulos con conexion a base de datos en sql server, se puede agregar, modificar, eliminar y ver un articulo.
 Hice una barra de menu en la que se deberia poder acceder a otras partes de la aplicacion, sin embargo lo hice solo en forma de ejemplo, y el boton de inicio y de contactos no llevan a ningun lado.
